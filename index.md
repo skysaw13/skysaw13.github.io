@@ -3,7 +3,7 @@ layout: home
 title: Skylar Sawyer
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "You have to what you have to do, to do what you want to do."
+motto: "You have to do what you have to do, to do what you want to do."
 
 quick_facts:
   - "🎓 Senior, Pyschology and Computer Science @ Morgan State University"
