@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/feed/
-image: /assets/images/me.png
+image: assets/images/me.png
 ---
