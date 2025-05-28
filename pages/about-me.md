@@ -4,27 +4,25 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Skylar Sawyer
+  role: Senior, Psychology and Computer Science Major at Morgan State University
+  image: assets/images/me.png
+  linkedin: https://www.linkedin.com/feed/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
-
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    I’m currently a senior studying Psychology and Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in Fall 2026.
+    I originally went to school to study psychology, but in my junior year I took an intro to computer science course and became highly interested, which encouraged me to become a double major and I have no regrets.
+    When I’m not working or doing something related to school, I love to work out or do any type of physical activities, watch anime, spend time with my cat, or watch movies.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🏋🏾
+      title: Physical Activity
+      description: I love to do anything that involve physical fitness whether it is working out at the gym, ice skating, hiking, bike riding, etc. I do it all.
+    - icon: 💢      
+      title: Anime
+      description: I recently got into watching anime a lot this year, so when I do have free time I am watching anime. Some of my favorites so far are Kengan Ashura, Blood of Zeus, and Solo Leveling.
+    - icon: 🎥      
+      title: Watching Movies
+      description: I am a big movie fanatic, so I love to watch movies especially at the theater. My favorite genre of movies is horror and some of my favorites are Insidious, Sinister, and the Conjuring Franchise.
 
   gallery:
     - image: /assets/images/me-guitar.png
