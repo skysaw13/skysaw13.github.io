@@ -9,7 +9,7 @@ quick_facts:
   - "🎓 Senior, Pyschology and Computer Science @ Morgan State University"
   - "🔬 Research: Application of Artificial Intelligence (AI) to Predict Genetic Biomarkers of Brain Tumor from Transcriptomic Data Set"
   - "📍 Based in Baltimore, MD"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🚀 Passionate about learning and improving my knowledge within computer science"
 
 linkedin: https://www.linkedin.com/feed/
 image: assets/images/me.png
