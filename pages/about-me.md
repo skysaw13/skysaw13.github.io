@@ -32,7 +32,7 @@ about:
     - image: assets/images/kengan.jpeg
       caption: One of my favorite animes 
     - image: assets/images/gym.png
-      caption: Pump from the gym
+      caption: Pump from the gym 💪🏾
     - image: assets/images/movies.jpeg
       caption: One of my favorite horror franchises 👹
 ---
