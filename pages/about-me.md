@@ -9,7 +9,7 @@ about:
   image: assets/images/me.png
   linkedin: https://www.linkedin.com/feed/
   bio: |
-    I’m currently a senior studying Psychology and Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in Fall 2026.
+    I was born and raised in Baltimore, MD and I am a first-generation college student. I’m currently a senior studying Psychology and Computer Science at Morgan State University in Baltimore, MD. I expect to graduate in Fall 2026.
     
     I originally went to school to study psychology, but in my junior year I took an intro to computer science course and became highly interested, which encouraged me to become a double major and I have no regrets.
     
