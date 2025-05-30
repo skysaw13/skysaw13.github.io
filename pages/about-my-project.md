@@ -14,12 +14,10 @@ problem: |
 approach: |
   The project follows a four-phase pipeline:
 
-  - To learn to use machine learning models in human health by using genomics and
-transcriptomic data
-  - To classify brain tumors based on their genetic markers
-  - To develop an ML model to predict the disease risk of brain tumors, whether they are
-cancerous or non-cancerous
-  - To validate their findings with the available resources
+    - To learn to use machine learning models in human health by using genomics and transcriptomic data
+    - To classify brain tumors based on their genetic markers
+    - To develop an ML model to predict the disease risk of brain tumors, whether they are cancerous or non-cancerous
+    - To validate their findings with the available resources
 
   We will use different machine learning algorithms - Random forest, Naive Bayes, Support,
 vector machine (SVM), K-nearest neighbors (KNN), LASSO, and Ridge.
