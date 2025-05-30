@@ -22,12 +22,8 @@ approach: |
     We will use different machine learning algorithms - Random forest, Naive Bayes, Support, vector machine (SVM), K-nearest neighbors (KNN), LASSO, and Ridge.
 
 outcome: |
-  Participants will gain experience in data gathering, machine learning, and deep learning
-techniques for Transcriptomic datasets, such as finding and collecting data from different
-sources and concatenating them, choosing appropriate ML algorithms to train and test data,
-and evaluating the best-fit model for prediction, select a statistical method for validation,
-feature selection, and dimensionality reduction. The knowledge will be used to classify the
-genes responsible for benign and malignant brain tumors.
+    
+    Participants will gain experience in data gathering, machine learning, and deep learning techniques for Transcriptomic datasets, such as finding and collecting data from different sources and concatenating them, choosing appropriate ML algorithms to train and test data, and evaluating the best-fit model for prediction, select a statistical method for validation, feature selection, and dimensionality reduction. The knowledge will be used to classify the genes responsible for benign and malignant brain tumors.
 
 final_report_url: TBD
 grad_mentor:
