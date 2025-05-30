@@ -8,6 +8,7 @@ subtitle: CEAMLS SAIRI Summer 2025 Research
 project_title: "Application of Artificial Intelligence (AI) to Predict Genetic Biomarkers of Brain Tumor from Transcriptomic Data Set"
 
 problem: |
+  
   Genetic Biomarkers are crucial in cancer diagnosis, prognosis, and treatment. Identifying
 genetic biomarkers allows for more accurate diagnosis and classification of cancer. The key issues being addressed include the high genetic variability of cancer across patients, the complexity of analyzing large-scale genomic data, and the challenge of translating research findings into practical clinical applications. Overcoming these obstacles is essential for accurately identifying biomarkers that can improve diagnosis, prognosis, and personalized treatment.
 
