@@ -4,23 +4,21 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Tijesumini Adeyemi 
+  title: Graduate Student, Advanced Computing Major
+  image: assets/images/Adeyemi Tijesumini.jpeg
+  website: https://www.linkedin.com/in/adeyemi-tijesunimi/ 
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+  Tijesumini Adeyemi, who also goes by TJ, is a graduate student studying Advanced Computing at Morgan State University. He obtained a degree in Mathematics as an undergraduate and he is also apart of the Morgan State University choir. He has also had interest in mathematics and the combinations of that and statistics peeked his curiousity to continue to go further within the field.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
-
+    Tijesumini Adeyemi has had much success within his education journey which has led him to qualify for many opportunities. Before coming to Morgan State University, he started out as a research assistant within the MATLAB solving numerical problems and providing solutiions at the Mountain Top University. He then went on to complete an interniship with KPMG Nigeria as a Financial Risk Management where he analyzed data, compiled client impairment reports, estimation of potential credit loss, and more. He has since went on to continue to gain more opportunities and further his career. 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Roshan Paudel
+  title: Dr. Paudel, Morgan State University
+  image: assets/images/Paudel-Roshan.jpg
+  website: https://www.morgan.edu/computer-science/faculty-and-staff/roshan-paudel
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Dr. Roshan Paudel is a professor in the Computer Science department at Morgan State University. He obtained a master's degree in Bioinformatics at Morgan State University in 2012 and a Ph.D. degree in Bioinformatics and Computational Biology at George Mason University in 2020. He's been a research assistant at each university he's gone to school at as well. 
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
-
+    He is the coordinator of the MS of the in Bioinformatics Program. Dr. Paudel has various research interest that consist of high performance computing, computational biology, computer science education, bioinformatics, computtional modeling and simulation, and next-generation sequencing analysis, and many more. He has also completed several publications on a variety of topics including deep learning, computational thinking, visual programming and interactive learning.
 ---
