@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day 10 – Linear Regression, Scikit Learning, Linear Model, Matplotlib"
+date: 2025-06-09
+author: Skylar Sawyer
+permalink: /day10.html
+tags: ["Matplotlib", "Linear Regression", "Matplotlib", "Fillna", "Pandas"]
+
+what_i_learned: |
+  Today we started working more on machine learning and statistics. I was already familiar with a lot of the concepts because I took data science about 2 semesters ago, which I am grateful for. We started off by TJ explaining linear regression and slope intercept form. Then he tasked us to watch a series of youtube videos on machine learning which we used to complete certain task throughout the video such as predicting the prices based on analysis. We also learned how to use linear regression with multiple variables. Another thing that I learned was the import word2number, which allows you to convert string numbers to integer numbers.
+
+blockers: |
+   The one thing that gave me a bit of a challenge was trying to convert the string "numbers" into it's interger values. I have not had to do that before but after some research I figured out how to do it.
+   
+reflection: |
+  Overall, today was a great learning day. I was happy to be working on data science again. It has reminded me of how much I enjoyed it during that previous semester. I am hoping to get better at it as it has open my curiousity more. I can see myself doing it as a career. Specifically, cleaning data and organizing it.
+---
